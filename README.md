@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey there 👋, I'm Shaurya</h1>
+<h1 align="center">Hey 👋, I'm Shaurya</h1>
 <h3 align="center">Senior Software Engineer @Wingify</h3>
 
 <h3 align="center">Connect with me:</h3>
