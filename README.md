@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hey 👋, I'm Shaurya</h1>
-<h3 align="center">Senior Software Engineer @Wingify</h3>
+<h3 align="center">Senior Software Engineer @Harness</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
