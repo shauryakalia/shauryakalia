@@ -61,8 +61,3 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shauryakalia&show_icons=true&locale=en" alt="shauryakalia" /></p>
-
-<p align="center">Current Coding Jams :</p>
-
-[![](https://song-preview-readme.herokuapp.com/preview?st=I2YyMDcwNw==&ed=IzBmMGYwZg==&txt=I0ZGRkZGRg==&name=RmFzaGlvbiBLaWxsYQ==&sUrl=aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL09hN0xsekFMdHBpdDN2WTNRVHE2bVNwUGVJSk9JSENBUkxtWGp6T01LZEpIUmZ3M1ZHZzJUWGhvV2JTRGMtZ2ljOWhPZU5lLTFEelZLSGc9dzEyMC1oMTIwLWw5MC1yag==&artist=QSRBUCBSb2NreQ==)](https://www.youtube.com/watch?v=J_Hf6ssMTyM)
-[![](https://song-preview-readme.herokuapp.com/preview?st=IzA3ZjJlZQ==&ed=IzBmMGYwZg==&txt=I0ZGRkZGRg==&name=bG9zdCBzb3VscyAoZmVhdC4gQnJlbnQgRmFpeWF6KQ==&sUrl=aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL0Z0RTBqTENKRFRXV0h3bVYtRWs1UHJNVXA4SWFid1dYcGdFVjJyR0RaRFRUTnJndWlrbnNtRnFKeW1WYUZ5THNuemZ0VWc3SHJWNThRTVJCdEE9dzEyMC1oMTIwLWw5MC1yag==&artist=QmFieSBLZWVt)](https://www.youtube.com/watch?v=D0ong-e41ko)
