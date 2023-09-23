@@ -60,4 +60,4 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shauryakalia&show_icons=true&locale=en" alt="shauryakalia" /></p>
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shauryakalia&show_icons=true&locale=en" alt="shauryakalia" /></p> -->
