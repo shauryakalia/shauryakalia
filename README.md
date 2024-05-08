@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hey 👋, I'm Shaurya</h1>
 <h3 align="center">Senior Software Engineer @ 
-    <a href="https://harness.io" target="blank"><img align="center" src="https://assets-global.website-files.com/6222ca42ea87e1bd1aa1d10c/62242940556df4e8146db519_white-logo.svg" alt="harness" height="40" width="40" /></a>
+    <a href="https://harness.io" target="blank"><img align="center" src="https://assets-global.website-files.com/6222ca42ea87e1bd1aa1d10c/62242940556df4e8146db519_white-logo.svg" alt="harness" height="60" width="60" /></a>
     - check out my work : 
     <a href="https://github.com/shaurya-harness" target="blank"><img align="center" src="https://camo.githubusercontent.com/6859b81bad9211632c09ba0ba5aff3ce23d87f38bd199a05cfdd67b70d8ef58e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" alt="shaurya-harness" height="30" width="40" /></a>
 </h3>
