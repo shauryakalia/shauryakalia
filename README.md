@@ -64,4 +64,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+![Visitor Count](https://profile-counter.glitch.me/{shauryakalia}/count.svg)
+
 <!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shauryakalia&show_icons=true&locale=en" alt="shauryakalia" /></p> -->
