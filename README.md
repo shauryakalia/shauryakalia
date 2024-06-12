@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey 👋, I'm Shaurya</h1>
+<h1 align="center">Hey, I'm Shaurya</h1>
 <h3 align="center">Senior Software Engineer   @   
     <a href="https://harness.io" target="blank"><img align="center" src="https://assets-global.website-files.com/6222ca42ea87e1bd1aa1d10c/62242940556df4e8146db519_white-logo.svg" alt="harness" height="100" width="100" /></a>
 </h3>
